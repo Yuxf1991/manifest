@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote fetch="." name="origin" review="https://github.com/Yuxf1991/"/>
+  <default remote="origin" revision="main" sync-j="4" />
+
+  <project name="gn" path="thirdparty/gn" groups="default"/>
+  <project name="googletest" path="thirdparty/googletest" groups="default"/>
+</manifest>
